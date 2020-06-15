@@ -1,5 +1,5 @@
 # Calssification---Predicting-LendingClub-Loan-Charge-offs-from-Initial-Listing-Data
-LendingClub is a US peer-to-peer lending company and the world's largest peer-to-peer lending platform. As explained by Wikipedia,
+LendingClub is a US peer-to-peer lending company and the world's largest peer-to-peer lending platform.
 
 Lending Club enables borrowers to create unsecured personal loans between $1,000 and $40,000. The standard loan period is three years. Investors can search and browse the loan listings on Lending Club website and select loans that they want to invest in based on the information supplied about the borrower, amount of loan, loan grade, and loan purpose. Investors make money from interest. Lending Club makes money by charging borrowers an origination fee and investors a service fee.
 
